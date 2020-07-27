@@ -1,1 +1,4 @@
 this is a change from master
+Hello git
+pleased to meet you
+adding new stuff to the file
